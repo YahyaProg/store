@@ -1,4 +1,8 @@
-## Notes
+## Simple store site
+Web site created using create-react-app
+<br/>
+<br/>
+https://comfy-shopping.netlify.app/
 
 #### Older React Version
 
